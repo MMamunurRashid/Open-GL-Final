@@ -1,0 +1,30 @@
+File not found
+Not a valid bitmap
+File not found
+Not a valid bitmap
+File not found
+Not a valid bitmap
+Warning!!! please turn off caps lock and use shift key before * key and + key.
+1. Press 't' for off light1.
+2. Press 'y' for off light2.
+3. Press 'u' for off cse light.
+4. Press '*' for stop fans.
+5. Press ';' for start fans.
+6. Press 'd' for window open/close.
+8. Press 'w' for up.
+9. press 'e' for down.
+10. press 's' for right.
+11. press 'a' for left.
+12. Press 'o' to move camera left.
+13. Press 'p' to move camera right.
+14. Press '+' to zoom in.
+15. Press '-' for zoom out.
+15. Press b,n,m for operate with light1,light2 and CSE light respectively.
+   1. Press '1' for add ambient.
+   2. Press '2' for reduce ambient.
+   3. Press '3' for add diffuse.
+   4. Press '4' for reduce diffuse.
+   5. Press '5' for add specular light.
+   6. Press '6' for reduce specular light.
+   7. Press ESC key for exit this operation and goto main programme
+16. Press ESC key for exit the main programme
